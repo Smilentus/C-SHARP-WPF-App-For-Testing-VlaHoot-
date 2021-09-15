@@ -1,0 +1,31 @@
+﻿<Window x:Class="VlaHoot2._0.ChooseTestWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VlaHoot2._0"
+        mc:Ignorable="d"
+        Title="VlaHoot | Тестирование" Height="600" Width="800" MaxWidth="800" MaxHeight="600" MinWidth="800" MinHeight="600" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
+    <Grid Background="#FF191919">
+        <Rectangle x:Name="rectangle" Fill="#FF5F5F5F" HorizontalAlignment="Left" Height="40" Stroke="Black" VerticalAlignment="Top" Width="794"/>
+        <Label x:Name="profileLabel" Content="ИМЯ ЛЮБИМОЕ" HorizontalAlignment="Left" VerticalAlignment="Top" Width="794" Height="38" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Foreground="White"/>
+
+        <Canvas x:Name="answerPanel1" Background="#FF535353" Margin="0,40,0,0" Panel.ZIndex="2" ScrollViewer.VerticalScrollBarVisibility="Disabled" Visibility="Hidden">
+            <TextBox x:Name="questionNameText" Padding="15, 15, 15, 15" Text="Сам вапрося" Width="774" Height="253" Foreground="White" Canvas.Left="10" Canvas.Top="39" FontSize="16" Background="#FF707070" TextWrapping="Wrap" VerticalAlignment="Center" UseLayoutRounding="False" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsReadOnly="True" BorderBrush="#FF707070" SelectionBrush="{x:Null}" Focusable="False" />
+            <ScrollViewer Height="160" Canvas.Left="117" Canvas.Top="326" Width="560" VerticalScrollBarVisibility="Auto">
+                <StackPanel x:Name="answerStackPanel" Height="160" Width="540" Background="#FF6E6E6E"/>
+            </ScrollViewer>
+            <Button x:Name="tipBtn" Content="?" Canvas.Left="10" Canvas.Top="326" Width="102" Height="32" Click="tipBtn_Click" Background="#FFDADADA"/>
+            <Button x:Name="skipBtn" Content="➤➤" Canvas.Left="682" Canvas.Top="326" Width="102" Height="32" Click="skipBtn_Click" Background="#FFDADADA"/>
+            <Label x:Name="questionNumberText" Content="Вапрося под номером" HorizontalAlignment="Left" VerticalAlignment="Top" Width="246" Height="29" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Foreground="White" Canvas.Left="276" Canvas.Top="10" FontSize="15" Background="#FF707070"/>
+            <Label x:Name="timeToAnswer" Content="Время на ответ" HorizontalAlignment="Left" VerticalAlignment="Top" Width="246" Height="29" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Foreground="White" Canvas.Left="276" Canvas.Top="292" FontSize="15" Background="#FF707070"/>
+        </Canvas>
+
+        <StackPanel x:Name="questionsPanel" HorizontalAlignment="Left" Height="510" Margin="10,50,0,0" VerticalAlignment="Top" Width="774"/>
+
+        <Canvas x:Name="readyCanvas" HorizontalAlignment="Left" Height="532" Margin="0,39,0,0" VerticalAlignment="Top" Width="794" Background="#CC2B2A2A" Visibility="Hidden">
+            <Label x:Name="countdownLabel" Content="5..." Canvas.Left="302" Canvas.Top="176" Height="135" Width="192" FontSize="72" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Foreground="White"/>
+            <Label x:Name="randomFactLabel" Content="Соберитесь с мыслями!" Canvas.Left="10" Canvas.Top="376" Height="118" Width="774" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Foreground="White"/>
+        </Canvas>
+    </Grid>
+</Window>

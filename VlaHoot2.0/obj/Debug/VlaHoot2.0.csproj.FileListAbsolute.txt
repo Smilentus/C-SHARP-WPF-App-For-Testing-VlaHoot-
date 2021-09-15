@@ -1,0 +1,133 @@
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\bin\Debug\VlaHoot2.0.exe.config
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\bin\Debug\VlaHoot2.0.exe
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\bin\Debug\VlaHoot2.0.pdb
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.csprojAssemblyReference.cache
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\AuthWindow.g.cs
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\ChooseTestWindow.g.cs
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\MainWindow.g.cs
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\SignInWindow.g.cs
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\App.g.cs
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0_MarkupCompile.cache
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0_MarkupCompile.lref
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\AuthWindow.baml
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\ChooseTestWindow.baml
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\MainWindow.baml
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\SignInWindow.baml
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.g.resources
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2._0.Properties.Resources.resources
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.csproj.GenerateResource.cache
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.csproj.CoreCompileInputs.cache
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.exe
+D:\Все проекты\Visual Studio - Projects\2019\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.pdb
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\bin\Debug\VlaHoot2.0.exe.config
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\bin\Debug\VlaHoot2.0.exe
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\bin\Debug\VlaHoot2.0.pdb
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\AuthWindow.g.cs
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\ChooseTestWindow.g.cs
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\SignInWindow.g.cs
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\App.g.cs
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0_MarkupCompile.cache
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0_MarkupCompile.lref
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\AuthWindow.baml
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\ChooseTestWindow.baml
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\SignInWindow.baml
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.g.resources
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2._0.Properties.Resources.resources
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.csproj.GenerateResource.Cache
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.exe
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.pdb
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\bin\Debug\VlaHoot2.0.exe.config
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\bin\Debug\VlaHoot2.0.exe
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\bin\Debug\VlaHoot2.0.pdb
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.csprojAssemblyReference.cache
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\AuthWindow.g.cs
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\ChooseTestWindow.g.cs
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\MainWindow.g.cs
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\SignInWindow.g.cs
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\App.g.cs
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0_MarkupCompile.cache
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0_MarkupCompile.lref
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\AuthWindow.baml
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\ChooseTestWindow.baml
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\MainWindow.baml
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\SignInWindow.baml
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.g.resources
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2._0.Properties.Resources.resources
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.csproj.GenerateResource.cache
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.csproj.CoreCompileInputs.cache
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.exe
+F:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.pdb
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\bin\Debug\VlaHoot2.0.exe.config
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\bin\Debug\VlaHoot2.0.exe
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\bin\Debug\VlaHoot2.0.pdb
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.csprojAssemblyReference.cache
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\AuthWindow.g.cs
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\ChooseTestWindow.g.cs
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\MainWindow.g.cs
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\ResultWindow.g.cs
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\SignInWindow.g.cs
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\App.g.cs
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0_MarkupCompile.cache
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0_MarkupCompile.lref
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\AuthWindow.baml
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\ChooseTestWindow.baml
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\MainWindow.baml
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\ResultWindow.baml
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\SignInWindow.baml
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.g.resources
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2._0.Properties.Resources.resources
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.csproj.GenerateResource.cache
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.csproj.CoreCompileInputs.cache
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.exe
+D:\Колледж\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.pdb
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\bin\Debug\VlaHoot2.0.exe.config
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\bin\Debug\VlaHoot2.0.exe
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\bin\Debug\VlaHoot2.0.pdb
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.csprojAssemblyReference.cache
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\AuthWindow.g.cs
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\ChooseTestWindow.g.cs
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\MainWindow.g.cs
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\ResultWindow.g.cs
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\SignInWindow.g.cs
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\App.g.cs
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0_MarkupCompile.cache
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0_MarkupCompile.lref
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\AuthWindow.baml
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\ChooseTestWindow.baml
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\MainWindow.baml
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\ResultWindow.baml
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\SignInWindow.baml
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.g.resources
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2._0.Properties.Resources.resources
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.csproj.GenerateResource.cache
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.csproj.CoreCompileInputs.cache
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.exe
+D:\Все проекты\C#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.pdb
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\bin\Debug\VlaHoot2.0.exe.config
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\bin\Debug\VlaHoot2.0.exe
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\bin\Debug\VlaHoot2.0.pdb
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.csprojAssemblyReference.cache
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\AuthWindow.g.cs
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\ChooseTestWindow.g.cs
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\MainWindow.g.cs
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\ResultWindow.g.cs
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\SignInWindow.g.cs
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\App.g.cs
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0_MarkupCompile.cache
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0_MarkupCompile.lref
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\AuthWindow.baml
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\ChooseTestWindow.baml
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\MainWindow.baml
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\ResultWindow.baml
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\SignInWindow.baml
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.g.resources
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2._0.Properties.Resources.resources
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.csproj.GenerateResource.cache
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.csproj.CoreCompileInputs.cache
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.exe
+E:\Программирование c#\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.pdb
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\VlaHoot2.0.csprojResolveAssemblyReference.cache
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\ResultWindow.g.cs
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\ResultWindow.baml
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\MainWindow.g.cs
+E:\Программирование c#\Курсовая работа\VlaHoot2.0\VlaHoot2.0\obj\Debug\MainWindow.baml

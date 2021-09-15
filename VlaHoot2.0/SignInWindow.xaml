@@ -1,0 +1,29 @@
+﻿<Window x:Class="VlaHoot2._0.SignInWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VlaHoot2._0"
+        mc:Ignorable="d"
+        Title="VlaHoot | Регистрация" Height="600" Width="800" MaxWidth="800" MaxHeight="600" MinWidth="800" MinHeight="600" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
+    <Grid Background="#FF191919">
+        <Label x:Name="nameLabel" Content="Придумайте никнейм: ..." HorizontalAlignment="Left" Margin="63,22,0,0" VerticalAlignment="Top" Width="690" FontSize="16" Foreground="White"/>
+        <TextBox x:Name="inputNameBox" HorizontalAlignment="Left" Height="30" Margin="63,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="690" FontSize="20" MaxLines="1" MaxLength="51" Background="#FF515151" Foreground="White" TextChanged="InputNameBox_TextChanged"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="63,100,0,0" VerticalAlignment="Top" Width="180" FontSize="16"/>
+        <Label x:Name="genderLabel" Content="Выберите пол: ..." HorizontalAlignment="Left" Margin="63,100,0,0" VerticalAlignment="Top" Width="338" FontSize="16" Foreground="White"/>
+        <RadioButton x:Name="maleBtn" Content="Мужской" HorizontalAlignment="Left" Margin="63,136,0,0" VerticalAlignment="Top" Height="30" Width="180" FontSize="20" VerticalContentAlignment="Center" Foreground="White" Checked="MaleBtn_Checked"/>
+        <RadioButton x:Name="femaleBtn" Content="Женский" HorizontalAlignment="Left" Margin="243,136,0,0" VerticalAlignment="Top" Height="30" Width="180" FontSize="20" VerticalContentAlignment="Center" Foreground="White" Checked="FemaleBtn_Checked"/>
+        <Label x:Name="ageLabel" Content="Укажите возраст: ..." HorizontalAlignment="Left" Margin="63,185,0,0" VerticalAlignment="Top" Width="690" FontSize="16" Foreground="White"/>
+        <Image HorizontalAlignment="Left" Height="280" Margin="153,270,0,0" VerticalAlignment="Top" Width="527" Source="Images/brain1.jpg" Stretch="UniformToFill"/>
+        <Button x:Name="signInButton" Content="ЗАРЕГИСТРИРОВАТЬСЯ" HorizontalAlignment="Left" Margin="153,270,0,0" VerticalAlignment="Top" Width="527" Background="#B2342157" Foreground="White" Height="280" FontSize="36" Click="SignInButton_Click"/>
+        <TextBox x:Name="inputAgeText" HorizontalAlignment="Left" Height="30" Margin="63,221,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="153" FontSize="20" MaxLines="1" MaxLength="3" Background="#FF515151" Foreground="White" TextChanged="InputAgeText_TextChanged" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" PreviewTextInput="InputAgeText_PreviewTextInput"/>
+        <Button x:Name="btnBack" Content="Вернуться" FontSize="18" Background="#FF747474" Foreground="White" BorderBrush="White" Click="btnBack_Click" Margin="553,201,41,320"/>
+        <ComboBox x:Name="difficultyComboBox" HorizontalAlignment="Left" Margin="442,136,0,0" VerticalAlignment="Top" Width="289" Height="30" Background="#FF636363" BorderBrush="Black" FontSize="16" Foreground="Black" SelectionChanged="DifficultyComboBox_SelectionChanged">
+            <Label Content="Троечник" Width="279" Background="#FF8F8F8F" BorderBrush="White" Foreground="White"/>
+            <Label Content="Ударник (Рекомендуется)" Width="279" Background="#FF8F8F8F" BorderBrush="White" Foreground="White"/>
+            <Label Content="Отличник" Width="279" Background="#FF8F8F8F" BorderBrush="White" Foreground="White"/>
+            <Label Content="Уникум" Width="279" Background="#FF8F8F8F" BorderBrush="White" Foreground="White"/>
+        </ComboBox>
+        <Label x:Name="difficultyLbl" Content="Выберите режим: ..." HorizontalAlignment="Left" Margin="442,100,0,0" VerticalAlignment="Top" Width="342" FontSize="16" Foreground="White"/>
+    </Grid>
+</Window>
